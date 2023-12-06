@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T02:10:18.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="yqZeQxdVkD2E7axid-EM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T02:11:59.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9SxeJKmLUWd_eEz3r7Be" version="22.1.5" type="github">
   <diagram name="Page-1" id="S-Btpq4ElsNhJgEUXTao">
-    <mxGraphModel>
+    <mxGraphModel dx="1049" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GjA46N9Rn8YWetvPc95C-2" value="Access Rights" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GjA46N9Rn8YWetvPc95C-3" value="Leave Request" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GjA46N9Rn8YWetvPc95C-5" value="Attendance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="360" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GjA46N9Rn8YWetvPc95C-6" value="Travel" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GjA46N9Rn8YWetvPc95C-7" value="HR Requests" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
